@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   moduleId: module.id,
-  selector: 'ng-app',
+  selector: 'sw-app',
   templateUrl: 'app.template.html'
 })
 
